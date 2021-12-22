@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-git status
+
 git pull
 python ./update.sh
 git config user.name "Server"
