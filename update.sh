@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-
+#!/bin/bash
 git pull
 python ./update.sh
 git config user.name "Server"
